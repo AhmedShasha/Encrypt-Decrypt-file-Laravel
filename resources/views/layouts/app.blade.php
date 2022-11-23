@@ -26,7 +26,6 @@
 
     <link rel="stylesheet" href="{{ asset('dist/assets/css/bootstrap.css') }} ">
 
-    <link rel="stylesheet" href="{{ asset('dist/assets/vendors/iconly/bold.css') }}">
     <link rel="stylesheet" href="{{ asset('dist/assets/vendors/simple-datatables/style.css') }} ">
     <link rel="stylesheet" href="{{ asset('dist/assets/vendors/choices.js/choices.min.css') }} " />
 
@@ -60,7 +59,6 @@
         </div>
 
     </div>
-    {{-- <script src="http://code.jquery.com/jquery-3.4.1.js"></script> --}}
     <script src="{{ asset('js/jquery3-6-1.js') }}"></script>
     <script src="{{ asset('dist/assets/vendors/perfect-scrollbar/perfect-scrollbar.min.js') }} "></script>
 
